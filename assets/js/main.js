@@ -1,3 +1,8 @@
+
+function myAlert() {
+	alert("Thank you for your message! We will endeavour to get back to you within 3 working days.");
+  }
+
 /*
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
